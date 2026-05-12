@@ -1,25 +1,46 @@
-<h1 align="center">Hi 👋, I'm Sukird (Job Zakung)</h1>
-<h3 align="center">Software Quality Assurance Engineer & Security Tester</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Sukird%20(Job%20Zakung)&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%26%20Security%20Tester&descAlignY=55&descAlign=50" alt="header"/>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jobzakung&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jobzakung&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Security%20%26%20QA-success?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Available%20For-Collaboration-blue?style=for-the-badge" alt="collaboration"/>
 </p>
 
 ---
 
-### 🔍 About Me
+## 🔍 About Me
 
-- 🔒 **Security Testing**: Penetration testing, vulnerability assessment, OWASP Top 10
-- ✅ **QA Engineering**: Automated testing, API testing, E2E testing, performance testing
-- 🐛 **Bug Hunter**: Experienced in reproducing complex bugs and writing detailed reports
-- 🧪 **Test Automation**: Python (pytest), JavaScript (Jest, Playwright, Cypress)
-- 🛠️ **Tools**: Burp Suite, Postman, Selenium, k6, JMeter
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔒 **Security Testing** 
+  - Penetration testing
+  - OWASP Top 10
+  - Vulnerability assessment
+  
+- ✅ **QA Engineering**
+  - Automated testing
+  - API & E2E testing
+  - Performance testing
+
+- 🐛 **Bug Hunter**
+  - Complex bug reproduction
+  - Detailed reporting
+
+- 🧪 **Test Automation**
+  - Python (pytest)
+  - JavaScript (Jest, Playwright, Cypress)
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Languages
+<div align="center">
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,7 +48,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Testing Frameworks & Tools
+### Testing Frameworks
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -35,58 +56,164 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-#### Security & Penetration Testing
+### Security Tools
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-#### DevOps & Tools
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
-
-### 💼 Core Competencies
-
-#### Software Quality Assurance
-- **Unit Testing**: Comprehensive test coverage for individual components
-- **Integration Testing**: Validating component interactions and data flow
-- **E2E Testing**: Complete user journey validation with Playwright/Cypress
-- **API Testing**: REST/GraphQL endpoint validation, contract testing
-- **Performance Testing**: Load testing, stress testing with k6/JMeter
-- **Test Automation**: CI/CD pipeline integration, automated test suites
-
-#### Security Testing
-- **Penetration Testing**: Web application security assessments
-- **Vulnerability Assessment**: OWASP Top 10, security misconfigurations
-- **Exploit Development**: PoC creation for identified vulnerabilities
-- **Security Code Review**: Static analysis for security flaws
-- **Authentication & Authorization Testing**: OAuth, JWT, session management
-- **Injection Testing**: SQL injection, XSS, command injection, XXE
-
-#### Bug Analysis & Reporting
-- **Root Cause Analysis**: Deep dive into complex issues
-- **Reproduction Steps**: Clear, detailed bug reproduction
-- **Severity Assessment**: CVSS scoring for security issues
-- **Documentation**: Comprehensive bug reports with evidence
+</div>
 
 ---
 
-### 🎯 Currently Working On
+## 💼 Core Competencies
 
-- 🔭 Building automated security testing frameworks
-- 🌱 Deepening expertise in cloud security testing (AWS, GCP, Azure)
-- 🧪 Developing custom testing tools and scripts
-- 📚 Studying advanced penetration testing techniques
-- 🤝 Open to collaboration on security tools and testing frameworks
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Software Quality Assurance
+```text
+Unit Testing         ████████████████░ 95%
+Integration Testing  ███████████████░░ 90%
+E2E Testing          ████████████████░ 95%
+API Testing          █████████████████ 98%
+Performance Testing  ██████████████░░░ 85%
+Test Automation      ████████████████░ 95%
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Security Testing
+```text
+Penetration Testing  ███████████████░░ 90%
+Vulnerability Assess ████████████████░ 95%
+OWASP Top 10        █████████████████ 98%
+Exploit Development  ██████████████░░░ 85%
+Security Reviews     ███████████████░░ 90%
+CTF / Bug Bounty     █████████████░░░░ 80%
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Connect With Me
+## 📊 Expertise Breakdown
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+pie title Testing Expertise Distribution
+    "API Testing" : 25
+    "Security Testing" : 25
+    "E2E Testing" : 20
+    "Performance Testing" : 15
+    "Unit Testing" : 15
+```
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🔭 Project | 📝 Description |
+|-----------|---------------|
+| **Security Testing Framework** | Building automated security scanning tools |
+| **Cloud Security** | AWS, GCP, Azure security testing |
+| **Custom Tools** | Developing testing utilities and scripts |
+| **CTF Challenges** | Participating in security competitions |
+
+</div>
+
+---
+
+## 🏆 Testing Approach
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+graph LR
+    A[Requirements] --> B[Test Planning]
+    B --> C[Test Design]
+    C --> D[Test Automation]
+    D --> E[Execution]
+    E --> F[Bug Reporting]
+    F --> G[Regression Testing]
+    G --> E
+    
+    style A fill:#4CAF50
+    style B fill:#2196F3
+    style C fill:#FF9800
+    style D fill:#9C27B0
+    style E fill:#F44336
+    style F fill:#E91E63
+    style G fill:#00BCD4
+```
+
+</div>
+
+---
+
+## 🔥 Skills Matrix
+
+<div align="center">
+
+| Category | Skills | Level |
+|----------|--------|-------|
+| **Languages** | Python, JavaScript, TypeScript, Java, Bash | ⭐⭐⭐⭐⭐ |
+| **Test Automation** | Pytest, Jest, Playwright, Cypress, Selenium | ⭐⭐⭐⭐⭐ |
+| **Security** | Burp Suite, OWASP, Metasploit, Penetration Testing | ⭐⭐⭐⭐⭐ |
+| **API Testing** | Postman, REST, GraphQL, Contract Testing | ⭐⭐⭐⭐⭐ |
+| **Performance** | k6, JMeter, Load Testing, Stress Testing | ⭐⭐⭐⭐ |
+| **DevOps** | Docker, Jenkins, GitHub Actions, CI/CD | ⭐⭐⭐⭐ |
+
+</div>
+
+---
+
+## 🐛 Bug Hunting Process
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart TD
+    A[🔍 Discovery] --> B{Reproducible?}
+    B -->|Yes| C[📝 Document Steps]
+    B -->|No| D[🔬 Deep Analysis]
+    D --> B
+    C --> E[🎯 Root Cause]
+    E --> F[📊 Severity Assessment]
+    F --> G[📄 Detailed Report]
+    G --> H[✅ Verification]
+    
+    style A fill:#4CAF50
+    style C fill:#2196F3
+    style E fill:#FF9800
+    style G fill:#9C27B0
+    style H fill:#00BCD4
+```
+
+</div>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:jobzakung@protonmail.com">
@@ -99,29 +226,18 @@
 
 ---
 
-### 💡 Testing Philosophy
+<div align="center">
 
-> **"Quality is not an act, it is a habit."** - Aristotle
+### 💭 Testing Philosophy
 
-I believe in:
-- **Shift-Left Testing**: Finding bugs early in the development cycle
-- **Security by Design**: Integrating security testing from day one
-- **Automation First**: Maximizing test coverage through automation
-- **Continuous Improvement**: Learning from every bug and vulnerability
-- **Thorough Documentation**: Clear, actionable bug reports and test cases
+> *"Quality is not an act, it is a habit."* - Aristotle
 
----
+**Shift-Left Testing** • **Security by Design** • **Automation First** • **Continuous Improvement**
 
-### 🔥 Fun Facts
-
-- 💻 I've tested applications in **Python, JavaScript, Java, and more**
-- 🐛 I love the challenge of reproducing hard-to-find bugs
-- 🔐 Passionate about finding and responsibly disclosing security vulnerabilities
-- 🧪 I write tests before I write code (TDD enthusiast)
-- 📊 I believe good tests are as important as good code
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" alt="footer"/>
+</div>
