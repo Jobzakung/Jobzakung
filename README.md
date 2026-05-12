@@ -73,7 +73,7 @@
 
 ---
 
-## 💼 Core Competencies
+## 💼 Expertise Overview
 
 <table align="center">
 <tr>
@@ -108,19 +108,46 @@ CTF / Bug Bounty     █████████████░░░░ 80%
 
 ---
 
-## 📊 Expertise Breakdown
+## 🎯 What I Do
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/api-settings.png" alt="API Testing" width="80"/><br>
+<b>API Testing</b><br>
+<sub>REST • GraphQL • Contract Testing</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" alt="Security" width="80"/><br>
+<b>Security Testing</b><br>
+<sub>Pentesting • OWASP • Vulnerability Assessment</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/bot.png" alt="Automation" width="80"/><br>
+<b>Test Automation</b><br>
+<sub>CI/CD • Pytest • Playwright • Selenium</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/bug.png" alt="Bug Hunting" width="80"/><br>
+<b>Bug Hunting</b><br>
+<sub>Root Cause Analysis • Detailed Reports</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Core Competencies
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'pie1':'#4CAF50', 'pie2':'#2196F3', 'pie3':'#FF9800', 'pie4':'#9C27B0', 'pie5':'#F44336'}}}%%
-pie title Testing Expertise Distribution
-    "API Testing" : 25
-    "Security Testing" : 25
-    "E2E Testing" : 20
-    "Performance Testing" : 15
-    "Unit Testing" : 15
-```
+| 🎯 Area | 🔧 Technologies | 📊 Proficiency |
+|---------|----------------|----------------|
+| **Test Automation** | Pytest, Jest, Playwright, Cypress, Selenium | <img src="https://progress-bar.dev/95/?width=200&color=4CAF50" alt="95%"/> |
+| **Security Testing** | Burp Suite, OWASP ZAP, Metasploit, Kali Linux | <img src="https://progress-bar.dev/90/?width=200&color=F44336" alt="90%"/> |
+| **API Testing** | Postman, REST Assured, Newman, Contract Testing | <img src="https://progress-bar.dev/98/?width=200&color=2196F3" alt="98%"/> |
+| **Performance Testing** | k6, JMeter, Locust, Load Testing | <img src="https://progress-bar.dev/85/?width=200&color=FF9800" alt="85%"/> |
+| **CI/CD Integration** | Jenkins, GitHub Actions, GitLab CI, Docker | <img src="https://progress-bar.dev/88/?width=200&color=9C27B0" alt="88%"/> |
 
 </div>
 
@@ -130,96 +157,75 @@ pie title Testing Expertise Distribution
 
 <div align="center">
 
-| 🔭 Project | 📝 Description |
-|-----------|---------------|
-| **Security Testing Framework** | Building automated security scanning tools |
-| **Cloud Security** | AWS, GCP, Azure security testing |
-| **Custom Tools** | Developing testing utilities and scripts |
-| **CTF Challenges** | Participating in security competitions |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/80/000000/security-shield-green.png" alt="Security Framework"/><br>
+<b>Security Testing Framework</b><br>
+<sub>Building automated security scanning tools</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/80/000000/cloud.png" alt="Cloud Security"/><br>
+<b>Cloud Security</b><br>
+<sub>AWS, GCP, Azure security testing</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/80/000000/trophy.png" alt="CTF"/><br>
+<b>CTF Challenges</b><br>
+<sub>Participating in security competitions</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 Testing Approach
+## 🔥 Testing Workflow
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4CAF50', 'primaryTextColor':'#fff', 'primaryBorderColor':'#4CAF50', 'lineColor':'#2196F3', 'secondaryColor':'#FF9800', 'tertiaryColor':'#9C27B0', 'fontSize':'16px'}}}%%
-flowchart LR
-    A[📋 Requirements] -->|Analyze| B[📝 Test Planning]
-    B -->|Design| C[🎨 Test Cases]
-    C -->|Automate| D[🤖 Test Scripts]
-    D -->|Run| E[▶️ Execution]
-    E -->|Report| F[🐛 Bug Tracking]
-    F -->|Verify| G[✅ Regression]
-    G -->|Continuous| E
-    
-    style A fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
-    style B fill:#2196F3,stroke:#1565C0,stroke-width:3px,color:#fff
-    style C fill:#FF9800,stroke:#E65100,stroke-width:3px,color:#fff
-    style D fill:#9C27B0,stroke:#6A1B9A,stroke-width:3px,color:#fff
-    style E fill:#F44336,stroke:#C62828,stroke-width:3px,color:#fff
-    style F fill:#E91E63,stroke:#AD1457,stroke-width:3px,color:#fff
-    style G fill:#00BCD4,stroke:#00838F,stroke-width:3px,color:#fff
+```
+📋 Requirements → 📝 Test Planning → 🎨 Test Design → 🤖 Automation → ▶️ Execution → 🐛 Bug Report → ✅ Regression
 ```
 
 </div>
 
----
-
-## 🔥 Skills Matrix
-
 <div align="center">
 
-| Category | Skills | Level |
-|----------|--------|-------|
-| **Languages** | Python, JavaScript, TypeScript, Java, Bash | ⭐⭐⭐⭐⭐ |
-| **Test Automation** | Pytest, Jest, Playwright, Cypress, Selenium | ⭐⭐⭐⭐⭐ |
-| **Security** | Burp Suite, OWASP, Metasploit, Penetration Testing | ⭐⭐⭐⭐⭐ |
-| **API Testing** | Postman, REST, GraphQL, Contract Testing | ⭐⭐⭐⭐⭐ |
-| **Performance** | k6, JMeter, Load Testing, Stress Testing | ⭐⭐⭐⭐ |
-| **DevOps** | Docker, Jenkins, GitHub Actions, CI/CD | ⭐⭐⭐⭐ |
+### My Approach to Quality
+
+| Phase | Focus |
+|-------|-------|
+| **Planning** | Understanding requirements, risk analysis, test strategy |
+| **Design** | Test case creation, data preparation, environment setup |
+| **Automation** | Script development, framework design, CI/CD integration |
+| **Execution** | Test runs, monitoring, real-time reporting |
+| **Reporting** | Bug documentation, metrics, improvement recommendations |
 
 </div>
 
 ---
 
-## 🐛 Bug Hunting Process
+## 🐛 Bug Hunting Philosophy
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FF6B6B', 'primaryTextColor':'#fff', 'primaryBorderColor':'#EE5A6F', 'lineColor':'#4ECDC4', 'secondaryColor':'#95E1D3', 'fontSize':'15px'}}}%%
-flowchart TD
-    Start([🎯 Start Investigation]) --> A[🔍 Discovery]
-    A --> B{Reproducible?}
-    B -->|✅ Yes| C[📝 Document Steps]
-    B -->|❌ No| D[🔬 Deep Analysis]
-    D --> B
-    C --> E[🎯 Root Cause Analysis]
-    E --> F[📊 Severity Assessment]
-    F --> G{Critical?}
-    G -->|🔴 High| H[🚨 Immediate Report]
-    G -->|🟡 Medium/Low| I[📄 Standard Report]
-    H --> J[✅ Verification]
-    I --> J
-    J --> K([✨ Resolved])
-    
-    style Start fill:#6C5CE7,stroke:#5F3DC4,stroke-width:4px,color:#fff
-    style A fill:#00B894,stroke:#00916E,stroke-width:3px,color:#fff
-    style B fill:#FDCB6E,stroke:#F0B736,stroke-width:3px,color:#000
-    style C fill:#74B9FF,stroke:#4A9FEE,stroke-width:3px,color:#fff
-    style D fill:#A29BFE,stroke:#7B6FED,stroke-width:3px,color:#fff
-    style E fill:#FD79A8,stroke:#E84393,stroke-width:3px,color:#fff
-    style F fill:#FFEAA7,stroke:#FDCB6E,stroke-width:3px,color:#000
-    style G fill:#FF7675,stroke:#E84343,stroke-width:3px,color:#fff
-    style H fill:#D63031,stroke:#B71C1C,stroke-width:4px,color:#fff
-    style I fill:#55EFC4,stroke:#00D2A0,stroke-width:3px,color:#000
-    style J fill:#00B894,stroke:#00916E,stroke-width:3px,color:#fff
-    style K fill:#6C5CE7,stroke:#5F3DC4,stroke-width:4px,color:#fff
-```
+> **Discovery → Reproduce → Analyze → Document → Verify**
+
+<table>
+<tr>
+<td align="center">🔍<br><b>Find</b><br><sub>Thorough testing</sub></td>
+<td align="center">→</td>
+<td align="center">🔄<br><b>Reproduce</b><br><sub>Consistent steps</sub></td>
+<td align="center">→</td>
+<td align="center">🎯<br><b>Root Cause</b><br><sub>Deep analysis</sub></td>
+<td align="center">→</td>
+<td align="center">📄<br><b>Document</b><br><sub>Clear reports</sub></td>
+<td align="center">→</td>
+<td align="center">✅<br><b>Verify</b><br><sub>Confirm fix</sub></td>
+</tr>
+</table>
 
 </div>
 
