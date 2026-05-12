@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Sukird%20(Job%20Zakung)&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20%26%20Security%20Tester&descAlignY=55&descAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Sukird%20(Job%20Zakung)&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20and%20Security%20Tester&descAlignY=55&descAlign=50" alt="header"/>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jobzakung&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Focus-Security%20%26%20QA-success?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Focus-Security%20and%20QA-success?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/Available%20For-Collaboration-blue?style=for-the-badge" alt="collaboration"/>
 </p>
 
@@ -21,7 +21,7 @@
   
 - ✅ **QA Engineering**
   - Automated testing
-  - API & E2E testing
+  - API and E2E testing
   - Performance testing
 
 - 🐛 **Bug Hunter**
@@ -62,7 +62,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-### DevOps & Tools
+### DevOps and Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -113,7 +113,7 @@ CTF / Bug Bounty     █████████████░░░░ 80%
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'pie1':'#4CAF50', 'pie2':'#2196F3', 'pie3':'#FF9800', 'pie4':'#9C27B0', 'pie5':'#F44336'}}}%%
 pie title Testing Expertise Distribution
     "API Testing" : 25
     "Security Testing" : 25
@@ -146,23 +146,23 @@ pie title Testing Expertise Distribution
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
-graph LR
-    A[Requirements] --> B[Test Planning]
-    B --> C[Test Design]
-    C --> D[Test Automation]
-    D --> E[Execution]
-    E --> F[Bug Reporting]
-    F --> G[Regression Testing]
-    G --> E
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4CAF50', 'primaryTextColor':'#fff', 'primaryBorderColor':'#4CAF50', 'lineColor':'#2196F3', 'secondaryColor':'#FF9800', 'tertiaryColor':'#9C27B0', 'fontSize':'16px'}}}%%
+flowchart LR
+    A[📋 Requirements] -->|Analyze| B[📝 Test Planning]
+    B -->|Design| C[🎨 Test Cases]
+    C -->|Automate| D[🤖 Test Scripts]
+    D -->|Run| E[▶️ Execution]
+    E -->|Report| F[🐛 Bug Tracking]
+    F -->|Verify| G[✅ Regression]
+    G -->|Continuous| E
     
-    style A fill:#4CAF50
-    style B fill:#2196F3
-    style C fill:#FF9800
-    style D fill:#9C27B0
-    style E fill:#F44336
-    style F fill:#E91E63
-    style G fill:#00BCD4
+    style A fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
+    style B fill:#2196F3,stroke:#1565C0,stroke-width:3px,color:#fff
+    style C fill:#FF9800,stroke:#E65100,stroke-width:3px,color:#fff
+    style D fill:#9C27B0,stroke:#6A1B9A,stroke-width:3px,color:#fff
+    style E fill:#F44336,stroke:#C62828,stroke-width:3px,color:#fff
+    style F fill:#E91E63,stroke:#AD1457,stroke-width:3px,color:#fff
+    style G fill:#00BCD4,stroke:#00838F,stroke-width:3px,color:#fff
 ```
 
 </div>
@@ -191,22 +191,34 @@ graph LR
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#FF6B6B', 'primaryTextColor':'#fff', 'primaryBorderColor':'#EE5A6F', 'lineColor':'#4ECDC4', 'secondaryColor':'#95E1D3', 'fontSize':'15px'}}}%%
 flowchart TD
-    A[🔍 Discovery] --> B{Reproducible?}
-    B -->|Yes| C[📝 Document Steps]
-    B -->|No| D[🔬 Deep Analysis]
+    Start([🎯 Start Investigation]) --> A[🔍 Discovery]
+    A --> B{Reproducible?}
+    B -->|✅ Yes| C[📝 Document Steps]
+    B -->|❌ No| D[🔬 Deep Analysis]
     D --> B
-    C --> E[🎯 Root Cause]
+    C --> E[🎯 Root Cause Analysis]
     E --> F[📊 Severity Assessment]
-    F --> G[📄 Detailed Report]
-    G --> H[✅ Verification]
+    F --> G{Critical?}
+    G -->|🔴 High| H[🚨 Immediate Report]
+    G -->|🟡 Medium/Low| I[📄 Standard Report]
+    H --> J[✅ Verification]
+    I --> J
+    J --> K([✨ Resolved])
     
-    style A fill:#4CAF50
-    style C fill:#2196F3
-    style E fill:#FF9800
-    style G fill:#9C27B0
-    style H fill:#00BCD4
+    style Start fill:#6C5CE7,stroke:#5F3DC4,stroke-width:4px,color:#fff
+    style A fill:#00B894,stroke:#00916E,stroke-width:3px,color:#fff
+    style B fill:#FDCB6E,stroke:#F0B736,stroke-width:3px,color:#000
+    style C fill:#74B9FF,stroke:#4A9FEE,stroke-width:3px,color:#fff
+    style D fill:#A29BFE,stroke:#7B6FED,stroke-width:3px,color:#fff
+    style E fill:#FD79A8,stroke:#E84393,stroke-width:3px,color:#fff
+    style F fill:#FFEAA7,stroke:#FDCB6E,stroke-width:3px,color:#000
+    style G fill:#FF7675,stroke:#E84343,stroke-width:3px,color:#fff
+    style H fill:#D63031,stroke:#B71C1C,stroke-width:4px,color:#fff
+    style I fill:#55EFC4,stroke:#00D2A0,stroke-width:3px,color:#000
+    style J fill:#00B894,stroke:#00916E,stroke-width:3px,color:#fff
+    style K fill:#6C5CE7,stroke:#5F3DC4,stroke-width:4px,color:#fff
 ```
 
 </div>
