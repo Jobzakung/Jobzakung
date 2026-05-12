@@ -1,77 +1,150 @@
 <div align="center">
 
-# Hi, I'm Sukird (Job Zakung) 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sukird%20(Job%20Zakung)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20and%20Security%20Tester&descAlignY=55" />
 
-### QA Engineer & Security Tester
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jobzakung&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Jobzakung&color=blueviolet&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Status-Available_for_Collaboration-success?style=for-the-badge)
 
 </div>
 
 ---
 
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ## 🔍 What I Do
 
-- **Software Testing** - Writing automated tests, API testing, E2E testing
-- **Security Testing** - Penetration testing, vulnerability assessment, OWASP Top 10
-- **Bug Hunting** - Reproducing complex issues and detailed reporting
-- **Test Automation** - Building test frameworks and CI/CD pipelines
+```yaml
+Software Testing:
+  - Automated testing
+  - API testing
+  - E2E testing
+  
+Security Testing:
+  - Penetration testing
+  - Vulnerability assessment
+  - OWASP Top 10
+  
+Bug Hunting:
+  - Complex issue reproduction
+  - Detailed reporting
+  
+Test Automation:
+  - Test frameworks
+  - CI/CD pipelines
+```
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+<div align="center">
 
-### Testing & Automation
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Security Tools
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+### 🧪 Testing & Automation
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+### 🔐 Security Tools
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+### 🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
 
 ---
 
 ## 🎯 Currently Working On
 
-```
-🔐 Building automated security testing tools
-☁️  Learning cloud security (AWS, GCP, Azure)
-🏆 Participating in CTF challenges
-🤝 Open to collaboration on testing projects
-```
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  
+🔐
+### Security Framework
+Building automated security scanning tools
+
+</td>
+<td align="center" width="33%">
+  
+☁️
+### Cloud Security
+Learning AWS, GCP, Azure security testing
+
+</td>
+<td align="center" width="33%">
+  
+🏆
+### CTF Challenges
+Participating in security competitions
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Get in Touch
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Jobzakung&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jobzakung&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
 
 <a href="mailto:jobzakung@protonmail.com">
-  <img src="https://img.shields.io/badge/Email-jobzakung@protonmail.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" height="40"/>
 </a>
 <a href="https://github.com/Jobzakung">
-  <img src="https://img.shields.io/badge/GitHub-Jobzakung-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
 </a>
+
+</div>
 
 ---
 
 <div align="center">
-  <i>"Quality is not an act, it is a habit." - Aristotle</i>
+
+### 💭 Philosophy
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Quote"/>
+
+<br>
+
+*"Quality is not an act, it is a habit."* - Aristotle
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+
 </div>
