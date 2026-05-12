@@ -25,99 +25,103 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Testing Frameworks
+#### Testing Frameworks & Tools
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-#### Security Tools
+#### Security & Penetration Testing
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 #### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Core Competencies
 
-<div align="center">
-  
-  [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jobzakung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Jobzakung)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Jobzakung&theme=tokyonight&hide_border=true)](https://github.com/Jobzakung)
-  
-  [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jobzakung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Jobzakung)
+#### Software Quality Assurance
+- **Unit Testing**: Comprehensive test coverage for individual components
+- **Integration Testing**: Validating component interactions and data flow
+- **E2E Testing**: Complete user journey validation with Playwright/Cypress
+- **API Testing**: REST/GraphQL endpoint validation, contract testing
+- **Performance Testing**: Load testing, stress testing with k6/JMeter
+- **Test Automation**: CI/CD pipeline integration, automated test suites
 
-</div>
+#### Security Testing
+- **Penetration Testing**: Web application security assessments
+- **Vulnerability Assessment**: OWASP Top 10, security misconfigurations
+- **Exploit Development**: PoC creation for identified vulnerabilities
+- **Security Code Review**: Static analysis for security flaws
+- **Authentication & Authorization Testing**: OAuth, JWT, session management
+- **Injection Testing**: SQL injection, XSS, command injection, XXE
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Jobzakung&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/Jobzakung)
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jobzakung&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffffff&area=true&hide_border=true)](https://github.com/Jobzakung)
-
-</div>
+#### Bug Analysis & Reporting
+- **Root Cause Analysis**: Deep dive into complex issues
+- **Reproduction Steps**: Clear, detailed bug reproduction
+- **Severity Assessment**: CVSS scoring for security issues
+- **Documentation**: Comprehensive bug reports with evidence
 
 ---
 
-### 💼 Experience Areas
+### 🎯 Currently Working On
 
-- **Software Testing**: Unit, Integration, E2E, API, Performance testing
-- **Security Testing**: Penetration testing, vulnerability assessment, exploit development
-- **Test Automation**: Building CI/CD pipelines with automated test suites
-- **Bug Analysis**: Root cause analysis and detailed reproduction steps
-- **Quality Assurance**: Test planning, test case design, defect tracking
-
----
-
-### 🎯 Currently
-
-- 🔭 Working on automated security testing frameworks
-- 🌱 Deepening expertise in cloud security testing (AWS, GCP)
-- 👯 Open to collaboration on security tools and testing frameworks
-- 💬 Ask me about testing strategies, security vulnerabilities, or test automation
+- 🔭 Building automated security testing frameworks
+- 🌱 Deepening expertise in cloud security testing (AWS, GCP, Azure)
+- 🧪 Developing custom testing tools and scripts
+- 📚 Studying advanced penetration testing techniques
+- 🤝 Open to collaboration on security tools and testing frameworks
 
 ---
 
 ### 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-jobzakung%40protonmail.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jobzakung@protonmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Jobzakung-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jobzakung)
+<p align="center">
+  <a href="mailto:jobzakung@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-jobzakung%40protonmail.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Jobzakung">
+    <img src="https://img.shields.io/badge/GitHub-Jobzakung-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+### 💡 Testing Philosophy
 
-<div align="center">
-  <i>⚡ "Quality is not an act, it is a habit." - Aristotle</i>
-</div>
+> **"Quality is not an act, it is a habit."** - Aristotle
+
+I believe in:
+- **Shift-Left Testing**: Finding bugs early in the development cycle
+- **Security by Design**: Integrating security testing from day one
+- **Automation First**: Maximizing test coverage through automation
+- **Continuous Improvement**: Learning from every bug and vulnerability
+- **Thorough Documentation**: Clear, actionable bug reports and test cases
 
 ---
 
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/Jobzakung/Jobzakung/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
+### 🔥 Fun Facts
+
+- 💻 I've tested applications in **Python, JavaScript, Java, and more**
+- 🐛 I love the challenge of reproducing hard-to-find bugs
+- 🔐 Passionate about finding and responsibly disclosing security vulnerabilities
+- 🧪 I write tests before I write code (TDD enthusiast)
+- 📊 I believe good tests are as important as good code
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+</p>
