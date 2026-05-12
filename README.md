@@ -102,18 +102,6 @@ Participating in security competitions
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Jobzakung&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jobzakung&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -135,7 +123,7 @@ Participating in security competitions
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Quote"/>
 
-<br>
+<br><br>
 
 *"Quality is not an act, it is a habit."* - Aristotle
 
